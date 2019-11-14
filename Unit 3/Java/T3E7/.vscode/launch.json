@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PeakSearch",
+            "request": "launch",
+            "mainClass": "PeakSearch",
+            "projectName": "T3E7"
+        }
+    ]
+}
